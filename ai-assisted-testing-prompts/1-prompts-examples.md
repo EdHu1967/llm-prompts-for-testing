@@ -1,4 +1,4 @@
-###Prompt.
+#Prompt.
 This are example prompts from the first chapter of "AI-assisted Testing". These prompts can be used as formatys to use yourself:
 PROMPT-for-testidea's
 Act as a professional software tester and suggest test ideas for the feature delimited
