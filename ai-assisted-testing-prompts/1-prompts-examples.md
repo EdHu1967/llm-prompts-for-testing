@@ -7,7 +7,7 @@ Act as a professional software tester and suggest test ideas for the feature del
 by three hashes. All test ideas should be focused on discovering issues that impact the
 quality characteristics: Functionality, Data Integrity and Security
 
-/###
+\###
 
 As a paralegal
 In order to store and share legal documents
@@ -21,6 +21,4 @@ uploaded it
 * A report of the upload and whether it was successful or not will be stored in the
 auditing feature
 
-/###
-
-P.s. / is used as escape charachter for ###. Remove it when using as prompt.
+\###
